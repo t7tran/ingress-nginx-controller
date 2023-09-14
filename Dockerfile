@@ -1,4 +1,4 @@
-FROM registry.k8s.io/ingress-nginx/controller:v1.8.0
+FROM registry.k8s.io/ingress-nginx/controller:v1.8.2
 
 USER root
 
